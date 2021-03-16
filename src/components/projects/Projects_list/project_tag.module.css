@@ -1,0 +1,48 @@
+.project_tile{
+    display: inline-block;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+    font-family: "Quicksand", sans-serif;
+    margin: 18px;
+    padding: 16px;
+    width: 330px;
+    text-align: initial;
+    padding: 2rem;
+}
+.project_tile:hover{
+    box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+}
+
+a{
+    text-decoration: none;
+    color: rgba(10, 0, 0, 0.863);
+}
+
+a:hover{
+    text-decoration: none;
+    color: rgba(10, 105, 247, 0.877);
+}
+.name{
+    margin: 0px;
+    padding: 0px;
+    font-weight: 300;
+    margin-top: 0.5rem;
+}
+
+.tech{
+    margin: 2px;
+    padding: 0px;
+    font-weight: 200;
+    margin-top: 0.5rem;
+}
+
+.link{
+    margin: 2px;
+    padding: 0px;
+    font-weight: 200;
+    margin-top: 0.5rem;
+}
+p{
+    margin: 2px;
+    padding: 0px;
+    margin-top: 0.5rem;
+}

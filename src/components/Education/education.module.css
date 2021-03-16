@@ -1,0 +1,42 @@
+.education {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.name_header {
+  font-size: 45px;
+  display: inline-block;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.03.rem;
+}
+
+ul {
+  list-style: none;
+}
+
+.content_subsection_education {
+  display: inline-block;
+  width: 80%;
+}
+
+.heading_ul {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.edu_list {
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+}
+
+.hr {
+  text-align: center;
+  display: inline-block;
+  width: 60%;
+}

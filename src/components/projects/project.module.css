@@ -1,0 +1,19 @@
+.projects_container {
+  margin-top: 30px;
+  text-align: center;
+}
+.name_projects {
+  font-size: 45px;
+  display: inline-block;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.03.rem;
+}
+
+.content_subsection_projects {
+  display: inline-block;
+  width: 80%;
+}
